@@ -1,4 +1,4 @@
-# FATEC---PDS-PDI
-Descrição: Repositório da Disciplina de Processamento de Sinais e  de Imagens Biomédicas
+#PSIB (Processamento de Sinais e Imagens Biomédicas)
+Descrição: Repositório da Disciplina de PSIB
 Curso: Sistemas Biomédicos
 Faculdade: FATEC Ribeirão Preto
